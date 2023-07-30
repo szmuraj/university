@@ -1,0 +1,13 @@
+GET http://localhost:8080/student
+
+###
+
+GET http://localhost:8080/studentId/12
+
+###
+
+GET http://localhost:8080/studentName/Kuba Buba
+
+###
+
+GET http://localhost:8080/studentTerm/1

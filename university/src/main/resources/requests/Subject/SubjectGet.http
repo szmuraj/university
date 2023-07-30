@@ -1,0 +1,13 @@
+GET http://localhost:8080/subject
+
+###
+
+GET http://localhost:8080/subjectId/1
+
+###
+
+GET http://localhost:8080/subjectName/English Language
+
+###
+
+GET http://localhost:8080/subjectGroup/1

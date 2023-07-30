@@ -1,0 +1,7 @@
+POST http://localhost:8080/subject
+Content-Type: application/json
+
+{
+  "subjectName": "Kung-Fu",
+  "subjectGroup": "1"
+}

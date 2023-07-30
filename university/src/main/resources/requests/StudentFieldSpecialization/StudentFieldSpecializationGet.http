@@ -1,0 +1,17 @@
+GET http://localhost:8080/studentFieldSpecialization
+
+###
+
+GET http://localhost:8080/studentFieldSpecializationId/1
+
+###
+
+GET http://localhost:8080/studentFieldSpecializationIdStudent/12
+
+###
+
+GET http://localhost:8080/studentFieldSpecializationIdField/1
+
+###
+
+GET http://localhost:8080/studentFieldSpecializationIdSpecialization/1

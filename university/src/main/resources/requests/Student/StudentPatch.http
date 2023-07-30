@@ -1,0 +1,6 @@
+PATCH http://localhost:8080/student/12
+Content-Type: application/json
+
+{
+  "term" : 1
+}

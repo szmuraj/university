@@ -1,0 +1,7 @@
+PUT http://localhost:8080/subject/12
+Content-Type: application/json
+
+{
+  "subjectName" : "English Language",
+  "subjectGroup" : 1
+}

@@ -1,0 +1,8 @@
+POST http://localhost:8080/studentFieldSpecialization
+Content-Type: application/json
+
+{
+  "idStudent": 1,
+  "idField": 1,
+  "idSpecialization": 1
+}
